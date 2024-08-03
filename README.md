@@ -6,4 +6,5 @@ This project reads a file containing Google Maps links for photos but lacks lati
 
 ## Requirements
 pandas
+
 selenium
